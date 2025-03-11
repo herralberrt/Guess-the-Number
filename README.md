@@ -23,7 +23,7 @@ The game provides **hints** if the guessed number is too high or too low and ass
    - Download and install Python from [python.org](https://www.python.org/).
 
 2. **Clone the repository or download the file**
-    git clone https://github.com/herralberrt/Guess-the-Number.git
+    git clone https://github.com/herralberrt/Guess-the-Number.git;
     cd Guess-the-Number
 
 3. Run the game
