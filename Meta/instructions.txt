@@ -1,4 +1,4 @@
-Guess the Number - Game Instructions
+Guess the Number - Game Instructions:
 
 1. Run the game using: python3 "Guess the Number.py"
 2. Guess a number between 1 and 100.
