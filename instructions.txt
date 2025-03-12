@@ -1,9 +1,0 @@
-Guess the Number - Game Instructions
-
-1. Run the game using: python3 "Guess the Number.py"
-2. Guess a number between 1 and 100.
-3. If your guess is too high or too low, you'll get hints.
-4. Your score decreases with each incorrect guess.
-5. Try to guess the number in 5 attempts or less to get a bonus!
-
-Good luck and have fun!
