@@ -19,14 +19,14 @@ The game provides **hints** if the guessed number is too high or too low and ass
 ---
 
 ## **How to Play?**
-1. **Install Python** (if you do not have it already)  
+1. **Install Python** (if you do not have it already);  
    - Download and install Python from [python.org](https://www.python.org/).
 
 2. **Clone the repository or download the file**
-    git clone https://github.com/herralberrt/Guess-the-Number.git
+    git clone https://github.com/herralberrt/Guess-the-Number.git;
     cd Guess-the-Number
 
 3. Run the game
-    python3 'Guess the Number.py'
+    python3 'Guess the Number.py';
 
-4. Follow the instructions in the terminal and enjoy the game
+4. Follow the instructions in the terminal and enjoy the game!
